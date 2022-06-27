@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1uwqOZyfsSx96uEl878AIYbWJ0aaCkar2?usp=sh
 
 ## OpenVINO Runtime - Classification, Object Detection
 
-Refer to 
+Refer to notebook ![ov_training_2022_ie_assignment_2.ipynb]()
 
 ## OpenVINO Runtime - Benchmark Performance App
 
