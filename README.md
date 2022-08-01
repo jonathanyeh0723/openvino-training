@@ -11,3 +11,4 @@ Refer to notebook [ov_training_2022_ie_assignment_2.ipynb](https://github.com/jo
 
 ## OpenVINO Runtime - Benchmark Performance App
 
+Refer to notebook [ov_training_2022_ie_assignment_3.ipynb]()
