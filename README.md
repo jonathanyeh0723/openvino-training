@@ -1,6 +1,8 @@
 # openvino-training
 Keep updating. All the materials to equip you from zero to hero!
 
+The Edge AI training course can be referred to [Edge AI工程師的20堂必修課程- Cupoy](https://www.cupoy.com/openvino-2022)
+
 ## Inference Fundamental
 
 Refer to notebook [ov_training_2022_ie_assignment_1.ipynb](https://github.com/jonathanyeh0723/openvino-training/blob/main/ov_training_2022_ie_assignment_1.ipynb)
