@@ -15,6 +15,8 @@ Solution notebook can be referred to [here](https://github.com/jonathanyeh0723/o
 
 Refer to notebook [ov_training_2022_ie_assignment_2.ipynb](https://github.com/jonathanyeh0723/openvino-training/blob/main/ov_training_2022_ie_assignment_2.ipynb)
 
+Solution notebook can be referred to [here](https://github.com/jonathanyeh0723/openvino-training/blob/main/ov_training_2022_ie_assignment_2_solution.ipynb)
+
 ## OpenVINO Runtime - Benchmark Performance App
 
 Refer to notebook [ov_training_2022_ie_assignment_3.ipynb](https://github.com/jonathanyeh0723/openvino-training/blob/main/ov_training_2022_ie_assignment_3.ipynb)
