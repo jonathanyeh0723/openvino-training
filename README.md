@@ -20,3 +20,7 @@ Solution notebook can be referred to [here](https://github.com/jonathanyeh0723/o
 ## OpenVINO Runtime - Benchmark Performance App
 
 Refer to notebook [ov_training_2022_ie_assignment_3.ipynb](https://github.com/jonathanyeh0723/openvino-training/blob/main/ov_training_2022_ie_assignment_3.ipynb)
+
+## OpenVINO™ integration with TensorFlow (Version 2.2.0)
+
+Demo using Google Colab: [My OpenVINO_TensorFlow Integration](https://colab.research.google.com/drive/1K-EjJAaYPZnOHGvzACoGtjmB9s2z6xMr#scrollTo=Hl4Wsjl5UiVl)
